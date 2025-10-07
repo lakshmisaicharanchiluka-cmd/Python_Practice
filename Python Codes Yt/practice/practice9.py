@@ -16,8 +16,15 @@ while i <= 10:
 print(i)'''
 
 # Print Numbers From 1 To 5
-i = 1
+'''i = 1
 while i <= 5:
     print(i)
     i += 1
+print("Loop Ended")'''
+
+#Print Numbers From 5 To 1
+i = 5
+while i >= 1:
+    print(i)
+    i -= 1
 print("Loop Ended")
