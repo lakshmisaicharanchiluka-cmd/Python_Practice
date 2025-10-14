@@ -11,7 +11,7 @@ i = 0
 while i <len((num)):
     if(num[i] == x ):
         print("Found At idx  ",  i)
-        break
+        break                               # linear search
     else:
         print(" Finding...... ")
     i += 1'''
